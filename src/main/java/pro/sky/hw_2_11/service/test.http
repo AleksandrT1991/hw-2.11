@@ -1,4 +1,4 @@
-GET http://localhost:8081/order/add?ids=2,3,4
+GET http://localhost:8081/store/order/add?ids=2,3,4
 ###
 GET http://localhost:8081/order/add?ids=5,6,7
 ###
